@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wy.JPG"
+  avatar           : "wy.jpg"
   name             : "Wen Yun"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Decision, Risk, and Operations Division at Columbia Business School"
   location         : ""
-  employer         : "Red Brick University"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "wen.yun@gsb.columbia.edu" 
 
