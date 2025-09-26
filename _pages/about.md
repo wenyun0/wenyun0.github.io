@@ -9,7 +9,7 @@ redirect_from:
 
 
 # About Me
-I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu).
+I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu). I am fortunate to be advised by [Assaf Zeevi](https://business.columbia.edu/faculty/people/assaf-zeevi).
 
 
 Getting started
