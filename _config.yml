@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "wy.JPG"
   name             : "Wen Yun"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Decision, Risk, and Operations Division at Columbia Business School"
