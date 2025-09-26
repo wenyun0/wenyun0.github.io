@@ -9,7 +9,7 @@ redirect_from:
 
 
 # About Me
-I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu). I am fortunate to be advised by [Assaf Zeevi](https://business.columbia.edu/faculty/people/assaf-zeevi). Prior to my PhD, I completed my undergraduate degree in Economics at [Tsinghua University]{https://www.tsinghua.edu.cn/en/} in China.
+I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu). I am fortunate to be advised by [Assaf Zeevi](https://business.columbia.edu/faculty/people/assaf-zeevi). Prior to my PhD, I completed my undergraduate degree in Economics at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China.
 
 My research studies problems in revenue management and related operational settings where customer behavior is complex or where human–algorithm interaction shapes decisions. In addressing these challenges, I (i) develop optimal policies, (ii) design online learning algorithms for decision making under uncertainty, (iii) conduct empirical analysis of real-world data, and (iv) build decision-support systems that are both efficient and implementable in practice.
 
