@@ -33,6 +33,7 @@ My research studies problems in revenue management and related operational setti
 <br>
 
 # Research
+<div style="margin-top:-1em"></div>
 ## Working Papers
 
 **Modeling and Empirical Considerations in B2B Pricing**<br>
