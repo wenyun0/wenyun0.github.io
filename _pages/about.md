@@ -29,7 +29,7 @@ A product recommendation framework under review-driven customer behavior, featur
 with Assaf Zeevi<br>
 A dynamic pricing framework with history-dependent demand influenced by prices and prior reviews, addressing the challenge of unknown demand through minimax-optimal online algorithms that significantly outperform predict-then-optimize methods.
 
-**Work in Progress**
+## Work in Progress
 
 **Learning under Indirect Price Control and Unobserved Confounding**<br>
 with Assaf Zeevi
