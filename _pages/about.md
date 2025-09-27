@@ -15,9 +15,9 @@ My research studies problems in revenue management and related operational setti
 
 # Research
 
-**Working Papers**
+## Working Papers
 
-*Modeling and Empirical Considerations in B2B Pricing*
+**Modeling and Empirical Considerations in B2B Pricing**
 
 with Assaf Zeevi, Gal Lex
 
