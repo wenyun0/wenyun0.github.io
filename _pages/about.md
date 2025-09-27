@@ -14,14 +14,12 @@ redirect_from:
     <img src="/images/profile.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
   </div>
   <div style="margin-left: 20px;">
-    <p><strong>Wenyun Huang</strong><br>
+    <p><strong>Wen Yun</strong><br>
     PhD Candidate, Decision, Risk, and Operations Division<br>
     Columbia Business School<br>
-    <span>wen.yun [at] gsb [dot] columbia [dot] edu</span></p>
+    <span>wen[dot]yun[at]gsb[dot]columbia[dot]edu</span></p>
     <p>
-      <a href="/files/CV.pdf">📄 CV</a> | 
-      <a href="https://scholar.google.com">Google Scholar</a> | 
-      <a href="https://github.com/wenyun0">GitHub</a>
+      <a href="/files/CV.pdf">📄 CV</a> |
     </p>
   </div>
 </div>
