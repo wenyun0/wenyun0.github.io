@@ -18,21 +18,21 @@ My research studies problems in revenue management and related operational setti
 ## Working Papers
 
 **Modeling and Empirical Considerations in B2B Pricing**<br>
-with Assaf Zeevi, Gal Lex<br>
+*with Assaf Zeevi, Gal Lex*<br>
 A pricing decision-support system featuring a near-optimal suggestion structure that accounts for partial compliance in human-in-the-loop settings, and an empirical analysis based on real transaction data.
 
 **Recommendation Policies in the Presence of Social Learning**<br>
-with Assaf Zeevi<br>
+*with Assaf Zeevi*<br>
 A product recommendation framework under review-driven customer behavior, featuring an asymptotically optimal policy and showing that different customer types are best targeted at different stages of the selling horizon.
 
 **Dynamic Pricing with Unknown Extent of Social Learning**<br>
-with Assaf Zeevi<br>
+*with Assaf Zeevi*<br>
 A dynamic pricing framework with history-dependent demand influenced by prices and prior reviews, addressing the challenge of unknown demand through minimax-optimal online algorithms that significantly outperform predict-then-optimize methods.
 
 ## Work in Progress
 
 **Learning under Indirect Price Control and Unobserved Confounding**<br>
-with Assaf Zeevi
+*with Assaf Zeevi*
 
 # Teaching
 
