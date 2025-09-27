@@ -33,3 +33,11 @@ A dynamic pricing framework with history-dependent demand influenced by prices a
 
 **Learning under Indirect Price Control and Unobserved Confounding**<br>
 with Assaf Zeevi
+
+# Teaching
+
+Columbia Business School<br>
+- *Managerial Statistics* (MBA/EMBA core), Teaching Assistant, Fall 2021, Spring 2022, Fall 2022, Fall 2023, Summer 2025
+- *Foundations of Stochastic Modeling* (PhD core), Teaching Assistant, Spring 2023 
+- *Supply Chain Analytics* (Master’s), Teaching Assistant, Spring 2022
+- *Analysis of Algorithms in Opeartions Research* (PhD elective), Teaching Assistant, Spring 2025
