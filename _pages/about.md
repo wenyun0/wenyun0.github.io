@@ -10,11 +10,15 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <!-- Photo on the left -->
   <div style="flex: 0 0 160px;">
     <img src="/images/wy.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
   </div>
-  <div style="margin-left: 20px;">
-    <p><strong>Wen Yun</strong><br>
+
+  <!-- Text on the right -->
+  <div style="margin-left: 20px; font-size: 1.1em; line-height: 1.5;">
+    <p style="font-size: 1.8em; font-weight: bold; margin: 0;">Wen Yun</p>
+    <p style="margin: 0.2em 0 0 0;">
     PhD Candidate<br>
     Decision, Risk, and Operations Division<br>
     Columbia Business School<br>
