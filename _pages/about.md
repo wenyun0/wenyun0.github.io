@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
   <div style="flex: 0 0 160px;">
-    <img src="/images/profile.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
+    <img src="/images/wy.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
   </div>
   <div style="margin-left: 20px;">
     <p><strong>Wen Yun</strong><br>
