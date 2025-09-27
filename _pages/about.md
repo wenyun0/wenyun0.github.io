@@ -23,3 +23,8 @@ with Assaf Zeevi, Gal Lex
 
 A pricing decision-support system featuring a near-optimal suggestion structure that accounts for partial compliance in human-in-the-loop settings, and an empirical analysis based on real transaction data.
 
+**Recommendation Policies in the Presence of Social Learning**
+
+with Assaf Zeevi
+
+A product recommendation framework under review-driven customer behavior, featuring an asymptotically optimal policy and showing that different customer types are best targeted at different stages of the selling horizon.
