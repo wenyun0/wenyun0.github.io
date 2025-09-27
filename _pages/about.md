@@ -15,7 +15,8 @@ redirect_from:
   </div>
   <div style="margin-left: 20px;">
     <p><strong>Wen Yun</strong><br>
-    PhD Candidate, Decision, Risk, and Operations Division<br>
+    PhD Candidate<br>
+    Decision, Risk, and Operations Division<br>
     Columbia Business School<br>
     <span>wen[dot]yun[at]gsb[dot]columbia[dot]edu</span></p>
     <p>
