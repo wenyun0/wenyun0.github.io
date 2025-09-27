@@ -9,7 +9,22 @@ redirect_from:
   - /about.html
 ---
 
-{% include author-profile.html %}
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <div style="flex: 0 0 160px;">
+    <img src="/images/profile.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
+  </div>
+  <div style="margin-left: 20px;">
+    <p><strong>Wenyun Huang</strong><br>
+    PhD Candidate, Decision, Risk, and Operations Division<br>
+    Columbia Business School<br>
+    <span>wen.yun [at] gsb [dot] columbia [dot] edu</span></p>
+    <p>
+      <a href="/files/CV.pdf">📄 CV</a> | 
+      <a href="https://scholar.google.com">Google Scholar</a> | 
+      <a href="https://github.com/wenyun0">GitHub</a>
+    </p>
+  </div>
+</div>
 # About Me
 I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu), where I am fortunate to be advised by [Assaf Zeevi](https://business.columbia.edu/faculty/people/assaf-zeevi). Prior to my PhD, I completed my undergraduate degree in Economics at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
