@@ -1,14 +1,15 @@
 ---
 permalink: /
-layout: splash
+layout: single
 title: ""
-author_profile: true
+author_profile: false
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+{% include author-profile.html %}
 # About Me
 I am a PhD Candidate in [Decision, Risk, and Operations Division](https://business.columbia.edu/faculty/divisions/dro) of the [Graduate Business School](https://business.columbia.edu) at [Columbia University](https://www.columbia.edu), where I am fortunate to be advised by [Assaf Zeevi](https://business.columbia.edu/faculty/people/assaf-zeevi). Prior to my PhD, I completed my undergraduate degree in Economics at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
