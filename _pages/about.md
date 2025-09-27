@@ -16,7 +16,7 @@ redirect_from:
   </div>
 
   <!-- Text on the right -->
-  <div style="margin-left: 20px; font-size: 1.1em; line-height: 1.5;">
+  <div style="margin-left: 40px; font-size: 1.1em; line-height: 1.5;">
     <p style="font-size: 1.8em; font-weight: bold; margin: 0;">Wen Yun</p>
     <p style="margin: 0.2em 0 0 0;">
     PhD Candidate<br>
