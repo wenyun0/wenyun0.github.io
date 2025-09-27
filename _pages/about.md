@@ -17,14 +17,14 @@ My research studies problems in revenue management and related operational setti
 
 ## Working Papers
 
-**Modeling and Empirical Considerations in B2B Pricing**
+**Modeling and Empirical Considerations in B2B Pricing**<br>
 
-with Assaf Zeevi, Gal Lex
+with Assaf Zeevi, Gal Lex<br>
 
 A pricing decision-support system featuring a near-optimal suggestion structure that accounts for partial compliance in human-in-the-loop settings, and an empirical analysis based on real transaction data.
 
-**Recommendation Policies in the Presence of Social Learning**
+**Recommendation Policies in the Presence of Social Learning**<br>
 
-with Assaf Zeevi
+with Assaf Zeevi<br>
 
 A product recommendation framework under review-driven customer behavior, featuring an asymptotically optimal policy and showing that different customer types are best targeted at different stages of the selling horizon.
